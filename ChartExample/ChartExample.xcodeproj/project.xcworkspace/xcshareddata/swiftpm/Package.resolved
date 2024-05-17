@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "cheesychart",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adri567/CheesyChart.git",
+      "state" : {
+        "revision" : "63e94226b8a820eaa4e810ec99916d519d68043a",
+        "version" : "1.1.4"
+      }
+    }
+  ],
+  "version" : 2
+}
