@@ -11,7 +11,8 @@ import SwiftUI
 struct SwiftUITutorialsApp: App {
     var body: some Scene {
         WindowGroup {
-            FullScreenCoverBootcamp()
+            //FullScreenCoverBootcamp()
+            ContentView()
         }
     }
 }
