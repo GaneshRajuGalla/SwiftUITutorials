@@ -12,7 +12,8 @@ struct SwiftUITutorialsApp: App {
     var body: some Scene {
         WindowGroup {
             //FullScreenCoverBootcamp()
-            ContentView()
+            //ContentView()
+            HeartAnimation()
         }
     }
 }

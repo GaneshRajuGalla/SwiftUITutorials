@@ -12,6 +12,8 @@
 		6E0676532B9E5A96001065BF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E0676522B9E5A96001065BF /* Preview Assets.xcassets */; };
 		6E06765A2B9E5AC7001065BF /* FullScreenCoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E0676592B9E5AC7001065BF /* FullScreenCoverBootcamp.swift */; };
 		6E77763F2BF8BD6100AE298A /* AlertsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E77763E2BF8BD6100AE298A /* AlertsBootCamp.swift */; };
+		6E7776412BF904F200AE298A /* HeartAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E7776402BF904F200AE298A /* HeartAnimation.swift */; };
+		6E7776452BF92EC400AE298A /* FunnyFaceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E7776442BF92EC400AE298A /* FunnyFaceView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +23,8 @@
 		6E0676522B9E5A96001065BF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6E0676592B9E5AC7001065BF /* FullScreenCoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FullScreenCoverBootcamp.swift; sourceTree = "<group>"; };
 		6E77763E2BF8BD6100AE298A /* AlertsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertsBootCamp.swift; sourceTree = "<group>"; };
+		6E7776402BF904F200AE298A /* HeartAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartAnimation.swift; sourceTree = "<group>"; };
+		6E7776442BF92EC400AE298A /* FunnyFaceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunnyFaceView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +78,8 @@
 			children = (
 				6E0676592B9E5AC7001065BF /* FullScreenCoverBootcamp.swift */,
 				6E77763E2BF8BD6100AE298A /* AlertsBootCamp.swift */,
+				6E7776402BF904F200AE298A /* HeartAnimation.swift */,
+				6E7776442BF92EC400AE298A /* FunnyFaceView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -157,8 +163,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				6E06764C2B9E5A95001065BF /* SwiftUITutorialsApp.swift in Sources */,
+				6E7776452BF92EC400AE298A /* FunnyFaceView.swift in Sources */,
 				6E06765A2B9E5AC7001065BF /* FullScreenCoverBootcamp.swift in Sources */,
 				6E77763F2BF8BD6100AE298A /* AlertsBootCamp.swift in Sources */,
+				6E7776412BF904F200AE298A /* HeartAnimation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
