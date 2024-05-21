@@ -14,6 +14,7 @@ struct SwiftUITutorialsApp: App {
             //FullScreenCoverBootcamp()
             //ContentView()
             HeartAnimation()
+            //FunnyFaceView()
         }
     }
 }

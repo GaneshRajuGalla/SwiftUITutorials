@@ -14,6 +14,8 @@
 		6E77763F2BF8BD6100AE298A /* AlertsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E77763E2BF8BD6100AE298A /* AlertsBootCamp.swift */; };
 		6E7776412BF904F200AE298A /* HeartAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E7776402BF904F200AE298A /* HeartAnimation.swift */; };
 		6E7776452BF92EC400AE298A /* FunnyFaceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E7776442BF92EC400AE298A /* FunnyFaceView.swift */; };
+		6E7CACAB2BFA0651003281F8 /* SwiftUITips.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E7CACAA2BFA0651003281F8 /* SwiftUITips.swift */; };
+		6ECB79BD2BFBCC6A008F6CCD /* TextAndImageSegmentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ECB79BC2BFBCC6A008F6CCD /* TextAndImageSegmentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +27,8 @@
 		6E77763E2BF8BD6100AE298A /* AlertsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertsBootCamp.swift; sourceTree = "<group>"; };
 		6E7776402BF904F200AE298A /* HeartAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartAnimation.swift; sourceTree = "<group>"; };
 		6E7776442BF92EC400AE298A /* FunnyFaceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunnyFaceView.swift; sourceTree = "<group>"; };
+		6E7CACAA2BFA0651003281F8 /* SwiftUITips.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUITips.swift; sourceTree = "<group>"; };
+		6ECB79BC2BFBCC6A008F6CCD /* TextAndImageSegmentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextAndImageSegmentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +84,8 @@
 				6E77763E2BF8BD6100AE298A /* AlertsBootCamp.swift */,
 				6E7776402BF904F200AE298A /* HeartAnimation.swift */,
 				6E7776442BF92EC400AE298A /* FunnyFaceView.swift */,
+				6E7CACAA2BFA0651003281F8 /* SwiftUITips.swift */,
+				6ECB79BC2BFBCC6A008F6CCD /* TextAndImageSegmentView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -164,7 +170,9 @@
 			files = (
 				6E06764C2B9E5A95001065BF /* SwiftUITutorialsApp.swift in Sources */,
 				6E7776452BF92EC400AE298A /* FunnyFaceView.swift in Sources */,
+				6E7CACAB2BFA0651003281F8 /* SwiftUITips.swift in Sources */,
 				6E06765A2B9E5AC7001065BF /* FullScreenCoverBootcamp.swift in Sources */,
+				6ECB79BD2BFBCC6A008F6CCD /* TextAndImageSegmentView.swift in Sources */,
 				6E77763F2BF8BD6100AE298A /* AlertsBootCamp.swift in Sources */,
 				6E7776412BF904F200AE298A /* HeartAnimation.swift in Sources */,
 			);

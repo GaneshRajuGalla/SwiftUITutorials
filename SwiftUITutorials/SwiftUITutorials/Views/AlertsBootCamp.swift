@@ -55,7 +55,7 @@ struct AlertsBootCamp: View {
     }
 }
 
-struct ContentView: View {
+struct MultipleAlertView: View {
     
     // MARK: - Properties
     @State private var isShowAlert1:Bool = false
@@ -75,6 +75,6 @@ struct ContentView: View {
 #if DEBUG
 #Preview {
     //AlertsBootCamp()
-    ContentView()
+    MultipleAlertView()
 }
 #endif
